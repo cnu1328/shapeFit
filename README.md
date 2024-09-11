@@ -74,6 +74,11 @@ Shapefitio is an application that helps gym trainers manage their clients by ass
 
 ## Food Items
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/3387dd79-0690-4d12-9802-12d481d2291e">
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/440288a5-6bbe-41c9-b290-f93b0f89c0c2">
+
+
 https://github.com/cnu1328/InterviewPrep/assets/110097436/c53d3a0c-4554-4d61-b577-1b7ccb0bbd6f
 
 ### Features
@@ -109,6 +114,11 @@ https://github.com/cnu1328/InterviewPrep/assets/110097436/c53d3a0c-4554-4d61-b57
 | Chicken   | 165                 | 31                  | 0                        | 3.6             |
 
 ## DietPlan
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/f9aac599-eb49-42fe-bf3e-a2940935e45e">
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/0951e16b-d74d-404f-a9c5-8950e7c74a6a">
+
 
 ### Overview
 
@@ -155,6 +165,11 @@ This feature helps trainers create a diet plan with the required amounts of calo
 
 **Client DietPlans**:
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/52683123-43c9-4768-ac03-82ad2cf0a8c3">
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/2eb3b649-130f-4c31-b3c9-45a01cd54c57">
+
+
 - Trainers can assign, modify, and delete diet plans for clients.
 
 ### Assign DietPlan UI
@@ -186,6 +201,10 @@ The Client DietPlans feature helps trainers manage their clients' diet plans eff
 This feature improves the Shapefitio platform by enabling trainers to efficiently manage detailed diet plans for their clients, leading to better adherence to diet plans and improved client results.
 
 ## Habits
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/0e4a3b58-dbc6-4371-b6c3-58b3dd96e9d0">
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/711bc986-17c1-4607-9339-bc71301f02e3">
 
 ### Overview
 
@@ -231,6 +250,13 @@ This feature enriches the Shapefitio platform by enabling trainers to offer more
 
 ## Workouts
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9e6dbe18-ec2a-4b20-9f82-9f3e69c03b69">
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/a1ec87a4-f23e-4b29-8353-4744f97ed7b8">
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/f4620345-4adf-4546-add2-1caf04d1273e">
+
+
 ### Overview
 
 **Workouts**:
@@ -273,6 +299,13 @@ This feature improves the Shapefitio app by allowing trainers to quickly and eff
 ## Programs
 
 ### Overview
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/10508f61-de19-4764-8da0-8dc8fae19a40">
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/df052ef5-5469-4bc1-b285-80babc39d0fb">
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ac320bf6-c388-4987-bbc6-8128b11bac43">
+
 
 **Programs**:
 
